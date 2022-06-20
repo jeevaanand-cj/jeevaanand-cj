@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](https://twitter.com/home)](https://twitter.com/)
+[![website](https://twitter.com/img/twitter-dark.svg)](https://twitter.com/)
 [![website](./img/twitter-dark.svg)](https://twitter.com/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
