@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/)
+[![website](https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-1.png)](https://twitter.com/)
 [![website](./img/twitter-dark.svg)](https://twitter.com/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/)
