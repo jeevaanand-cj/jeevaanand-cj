@@ -1,4 +1,4 @@
-# Hi there, I'm Jeeva - Senior Automation Test Engineer/ Senior SDET 👋 
+# Hi there, I'm Jeeva - Technical Lead 👋 
 
 
 
